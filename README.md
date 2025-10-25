@@ -1,4 +1,8 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+<h3>Name: INIGO FRAN A</h3>
+<h3>Register Number: 212224030011 </h3>
+<H3>Aim:</H3>
+        Implementation of Classical Algorithm
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
